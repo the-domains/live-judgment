@@ -1,0 +1,14 @@
+layout_spectrum: 0.40224582818336785
+typography_spectrum: 0.5097571338992566
+color:
+  brandStrength: 0.9097608414012939
+  lightness: 0.10440285364165902
+  saturation: 0.5937491226941347
+  rhythmicContrast: 0.06610939069651067
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: live judgment
